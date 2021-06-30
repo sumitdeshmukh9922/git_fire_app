@@ -29,10 +29,10 @@ const App = () => {
       <UserContext.Provider value={{ user, setUser }}>
         <Header />
         <Switch>
-          <Route exact path='/' component={Home} />
+          <Route exact path='/' component={Signin} />
           <Route exact path='/signin' component={Signin} />
           <Route exact path='/signup' component={Signup} />
-          <Route exact path='*' component={Signin} />
+          <Route exact path='*' component={PageNotFound} />
         </Switch>
         <Footer />
       </UserContext.Provider>
