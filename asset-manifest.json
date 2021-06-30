@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/git_fire_app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/git_fire_app/static/js/main.11559cb8.chunk.js",
+    "main.js.map": "/git_fire_app/static/js/main.11559cb8.chunk.js.map",
+    "runtime-main.js": "/git_fire_app/static/js/runtime-main.8ef9eb7c.js",
+    "runtime-main.js.map": "/git_fire_app/static/js/runtime-main.8ef9eb7c.js.map",
+    "static/css/2.6b8806cc.chunk.css": "/git_fire_app/static/css/2.6b8806cc.chunk.css",
+    "static/js/2.1664673a.chunk.js": "/git_fire_app/static/js/2.1664673a.chunk.js",
+    "static/js/2.1664673a.chunk.js.map": "/git_fire_app/static/js/2.1664673a.chunk.js.map",
+    "static/js/3.ada79b87.chunk.js": "/git_fire_app/static/js/3.ada79b87.chunk.js",
+    "static/js/3.ada79b87.chunk.js.map": "/git_fire_app/static/js/3.ada79b87.chunk.js.map",
+    "index.html": "/git_fire_app/index.html",
+    "static/css/2.6b8806cc.chunk.css.map": "/git_fire_app/static/css/2.6b8806cc.chunk.css.map",
+    "static/css/main.9d5b29c0.chunk.css.map": "/git_fire_app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.1664673a.chunk.js.LICENSE.txt": "/git_fire_app/static/js/2.1664673a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/git_fire_app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ef9eb7c.js",
+    "static/css/2.6b8806cc.chunk.css",
+    "static/js/2.1664673a.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.11559cb8.chunk.js"
+  ]
+}
